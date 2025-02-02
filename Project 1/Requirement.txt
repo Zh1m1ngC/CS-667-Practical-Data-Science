@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+googlesearch-python
+transformers
+sentence-transformers
+scikit-learn
+vaderSentiment
+newspaper3k
+lxml_html_clean
